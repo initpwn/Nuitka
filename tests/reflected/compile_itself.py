@@ -113,6 +113,7 @@ def diffRecursive(dir1, dir2):
                 ".sconsign",
                 ".txt",
                 ".bin",
+                ".const",
                 ".exp",
             )
         ):
